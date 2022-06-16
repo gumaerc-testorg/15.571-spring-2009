@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides discussion questions for selected lecture of the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Discussion Questions

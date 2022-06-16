@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on a two part class project: a class
+  presentation and an executive summary.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

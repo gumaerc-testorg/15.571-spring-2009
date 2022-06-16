@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Why study IT value ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec01))
+Why study IT value ({{% resource_link d4503f83-c610-15ae-ae22-dd3266023612 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +44,7 @@ Why study IT value ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Aligning IT with business strategy ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec02))
+Aligning IT with business strategy ({{% resource_link e2986d6d-59fb-3c89-d6cf-58be8944bdd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Aligning IT with business strategy ([PDF]({{< baseurl >}}/resources/mit15_571s09
 3
 {{< tdclose >}}
 {{< tdopen >}}
-An overview of business operating models ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec03))
+An overview of business operating models ({{% resource_link 147d6ab5-4c2b-c472-b0bd-57a8d9ac67bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +70,7 @@ An overview of business operating models ([PDF]({{< baseurl >}}/resources/mit15_
 {{< tdopen >}}
 
 
-Unification model ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec04))
+Unification model ({{% resource_link 7c48115b-538f-e6ec-fb88-adfc7c52121d "PDF" %}})
 
 Case: UPS
 
@@ -98,7 +100,7 @@ Case: Pacific Life
 {{< tdopen >}}
 
 
-Replication model ([PDF - 1.9MB]({{< baseurl >}}/resources/mit15_571s09_lec06))
+Replication model ({{% resource_link 9d8fb277-23f6-ccdc-66ef-06c520caa9bb "PDF - 1.9MB" %}})
 
 Case: 7-Eleven Japan
 
@@ -113,7 +115,7 @@ Case: 7-Eleven Japan
 {{< tdopen >}}
 
 
-Coordination model ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec07))
+Coordination model ({{% resource_link 25dc18cd-7da3-1587-f261-05c0e6804c03 "PDF" %}})
 
 Case: Merrill Lynch
 
@@ -132,7 +134,7 @@ Case: Merrill Lynch
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The data driven organization ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec08))
+The data driven organization ({{% resource_link 87892ba9-456b-56b4-2130-04f9981c8b9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +158,7 @@ Guest speaker: John Glaser, CIO Partners Healthcare System
 10
 {{< tdclose >}}
 {{< tdopen >}}
-IT governance: decisions, rights and accountability ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec10))
+IT governance: decisions, rights and accountability ({{% resource_link 13dbe1fe-5795-0c3d-c1a5-fdadf0c07fd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +231,7 @@ Case: Southwest Airlines
 {{< tdopen >}}
 
 
-Managing change ([PDF - 4.4MB]({{< baseurl >}}/resources/mit15_571s09_lec15)) (Courtesy of Cyrus Gibson. Used with permission.)
+Managing change ({{% resource_link 965feeba-38dd-f9f6-ad9f-52486598d410 "PDF - 4.4MB" %}}) (Courtesy of Cyrus Gibson. Used with permission.)
 
 Guest speaker: Cyrus Gibson, MIT Sloan CISR
 
@@ -267,7 +269,7 @@ Guest speaker: George Westerman, MIT Sloan CISR
 {{< tdopen >}}
 
 
-IT outsourcing ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec17))
+IT outsourcing ({{% resource_link b08474c2-6653-75ab-cc91-23c94c7259ee "PDF" %}})
 
 Case: Dow Chemical
 
@@ -304,7 +306,7 @@ IT and globalization
 20
 {{< tdclose >}}
 {{< tdopen >}}
-IT and business innovation ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec20))
+IT and business innovation ({{% resource_link db0330d7-31b4-9ac3-29f8-57e9d1fbc683 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +317,7 @@ IT and business innovation ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec20))
 {{< tdopen >}}
 
 
-IT savvy ([PDF - 1.0MB]({{< baseurl >}}/resources/mit15_571s09_lec21)) (Courtesy of Peter Weill. Used with permission.)
+IT savvy ({{% resource_link 4d4df5dc-f6f5-bfb6-206b-4beb0739b82b "PDF - 1.0MB" %}}) (Courtesy of Peter Weill. Used with permission.)
 
 Guest speaker: Peter Weill, Chairman, MIT Sloan CISR
 
@@ -354,7 +356,7 @@ The future of IT and digital organizations
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Group presentations, course wrap-up ([PDF]({{< baseurl >}}/resources/mit15_571s09_lec24))
+Group presentations, course wrap-up ({{% resource_link 42a3e130-17f8-6f37-b81b-1e2d10fbfed6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
