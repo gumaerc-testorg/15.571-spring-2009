@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides discussion questions for selected lecture of the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Discussion Questions
 uid: ef312c3a-8d5e-3850-32af-17e824de506f
 ---
