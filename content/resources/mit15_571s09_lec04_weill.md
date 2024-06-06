@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation on the unification model, building an information
   technology-enabled enterprise, and the case of United Parcel Service Inc. '
 file: /courses/15-571-generating-business-value-from-information-technology-spring-2009/ecec421bedf3a9f861efbdd3c1fc5e3e_MIT15_571s09_lec04_weill.pdf
+file_size: 253047
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

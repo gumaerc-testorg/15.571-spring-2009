@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: ac488c7a-124b-66e4-a804-2cab4d55734c
 ---
-All MIT Sloan CISR Working Papers are available for {{% resource_link "6e765734-b9f2-4f5c-9bb6-b733f77b94c4" "free download" %}}.
+All MIT Sloan CISR Working Papers are available for [free download](http://cisr.mit.edu/research/current-projects/).
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -33,9 +33,9 @@ READINGS
 Why study IT value
 {{< tdclose >}}{{< tdopen >}}
 
-Carr, Nicholas. "{{% resource_link "2d19976f-bf0c-4d57-8120-a151a8e8a3ec" "IT Doesn't Matter" %}}." *Harvard Business Review*, May 2003.
+Carr, Nicholas. "[IT Doesn't Matter](http://www.roughtype.com/archives/2007/01/it_doesnt_matte.php)." *Harvard Business Review*, May 2003.
 
-Kohli, Rajiv, and Sarv Devaraj. "Realizing the Business Value of Information Technology Investments: An Organizational Process." *MIS Quarterly Executive* 3, no. 1 (2004): 53-68. ({{% resource_link "111cb4a6-7229-4e61-b0c4-06b0c4add800" "PDF" %}})
+Kohli, Rajiv, and Sarv Devaraj. "Realizing the Business Value of Information Technology Investments: An Organizational Process." *MIS Quarterly Executive* 3, no. 1 (2004): 53-68. ([PDF](http://www.sba.oakland.edu/faculty/lauer/downloads/MIS625/Readings/Business%20value%20of%20IT%20investments.pdf))
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -47,9 +47,9 @@ Kohli, Rajiv, and Sarv Devaraj. "Realizing the Business Value of Information Tec
 Aligning IT with business strategy
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W., and Peter Weill. "{{% resource_link "52c7c12c-c1e0-48cd-8d28-c31dd018a9c0" "Six IT Decisions Your IT People Shouldn't Make" %}}." *Harvard Business Review*, November 2002. 
+Ross, Jeanne W., and Peter Weill. "[Six IT Decisions Your IT People Shouldn't Make](https://hbr.org/2002/11/six-it-decisions-your-it-people-shouldnt-make)." *Harvard Business Review*, November 2002. 
 
-Rettig, Cynthia. "{{% resource_link "8adcdad6-0c66-4a52-ae1a-44214a88d9e7" "The Trouble With Enterprise Software" %}}." *MIT Sloan Management Review* 49, no. 1 (2007): 20-27.
+Rettig, Cynthia. "[The Trouble With Enterprise Software](http://sloanreview.mit.edu/the-magazine/articles/2007/fall/49101/the-trouble-with-enterprise-software/)." *MIT Sloan Management Review* 49, no. 1 (2007): 20-27.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -67,7 +67,7 @@ Rettig, Cynthia. "{{% resource_link "8adcdad6-0c66-4a52-ae1a-44214a88d9e7" "The 
 An overview of business operating models
 {{< tdclose >}}{{< tdopen colspan="3" >}}
 
-Ross, Jeanne W. "Forget Strategy: Focus IT on Your Operating Model." *MIT Sloan CISR Research Briefing* V, no. 3C (2005). ({{% resource_link "43a53acb-1630-4995-97d2-b4b1b876d996" "PDF" %}}) (Requires free registration.)
+Ross, Jeanne W. "Forget Strategy: Focus IT on Your Operating Model." *MIT Sloan CISR Research Briefing* V, no. 3C (2005). ([PDF](https://online.flowpaper.com/783f071e/2005123COperatingModels/#page=1)) (Requires free registration.)
 
 ### Optional reading
 
@@ -85,9 +85,9 @@ Case: UPS
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W. "{{% resource_link "783735b0-c85e-4dce-9621-7934a5df81ee" "United Parcel Service: Delivering Packages and Ecommerce Solutions" %}}." MIT Sloan CISR Working Paper, no. 318, August 2001.
+Ross, Jeanne W. "[United Parcel Service: Delivering Packages and Ecommerce Solutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=305714)." MIT Sloan CISR Working Paper, no. 318, August 2001.
 
-Visit: {{% resource_link "80c8531f-e400-4f39-8ccb-9ff0f43e204d" "Shipping, Freight, Logistics and Supply Chain Management from UPS" %}}
+Visit: [Shipping, Freight, Logistics and Supply Chain Management from UPS](http://www.ups.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -103,9 +103,9 @@ Case: Pacific Life
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W., and Cynthia M. Beath. "{{% resource_link "0e2a4d24-7e1c-4349-a6e8-c631330882c5" "Agility and Risk Management at Pacific Life: Optimizing Business Unit Autonomy" %}}." MIT Sloan CISR Working Paper, no. 372, November 2007.
+Ross, Jeanne W., and Cynthia M. Beath. "[Agility and Risk Management at Pacific Life: Optimizing Business Unit Autonomy](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwje8rW6mbnNAhWEbj4KHfEkACIQFggeMAA&url=http%3A%2F%2Fssrn.com%2Fabstract%3D1114796&usg=AFQjCNGs-UmLt42Zo2noelpgHDkYZXgz0g&cad=rja)." MIT Sloan CISR Working Paper, no. 372, November 2007.
 
-Visit: {{% resource_link "a6f31f8e-efc1-4e61-a043-083bf75ebf5e" "Pacific Life" %}}
+Visit: [Pacific Life](http://www.pacificlife.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -120,7 +120,7 @@ Replication model
 Case: 7-Eleven Japan
 
 {{< tdclose >}}{{< tdopen >}}
-Nagayama Kei, and Peter Weill. {{% resource_link "5f242ef7-fb02-4bf7-9219-7e91f39fd695" "\"Seven Eleven Japan: Reinventing the Retail Business Model.\"" %}} MIT Sloan CISR Working Paper, no. 338, January 2004.
+Nagayama Kei, and Peter Weill. ["Seven Eleven Japan: Reinventing the Retail Business Model."](https://cisr.mit.edu/publication/MIT_CISRwp338_7-ElevenJapan_NagayamaWeill) MIT Sloan CISR Working Paper, no. 338, January 2004.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -135,9 +135,9 @@ Case: Merrill Lynch
 
 {{< tdclose >}}{{< tdopen >}}
 
-Rangan, V. Kasturi, and Marie Bell. "{{% resource_link "96c74109-3ed8-4f15-889b-d9207326d1de" "Merrill Lynch: Integrated Choice" %}}." Harvard Business School Case. Boston, MA: Harvard Business School Publishing. Case: 9-500-090, February 29, 2000.
+Rangan, V. Kasturi, and Marie Bell. "[Merrill Lynch: Integrated Choice](http://www.hbs.edu/faculty/Pages/item.aspx?num=27005)." Harvard Business School Case. Boston, MA: Harvard Business School Publishing. Case: 9-500-090, February 29, 2000.
 
-Visit: {{% resource_link "25328745-8272-4b27-9e99-07d20988166e" "Merrill Lynch" %}}, {{% resource_link "eda3ef90-404b-4667-83c2-2c6bcc03821d" "Charles Schwab" %}} and {{% resource_link "634309ff-8ae9-43ce-8c10-c9fa3230df7f" "Citi" %}}
+Visit: [Merrill Lynch](http://www.ml.com/), [Charles Schwab](http://www.schwab.com/) and [Citi](http://www.citi.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -155,9 +155,9 @@ Visit: {{% resource_link "25328745-8272-4b27-9e99-07d20988166e" "Merrill Lynch" 
 The data driven organization
 {{< tdclose >}}{{< tdopen >}}
 
-Anderson-Lehman, Ron, et al. "{{% resource_link "e6583528-e6f1-48a3-a460-9d0f18a78fde" "Continental Airlines Flies High with Real-time Business Intelligence" %}}." *MIS Quarterly Executive* 3, no. 4 (2004): 163-176.
+Anderson-Lehman, Ron, et al. "[Continental Airlines Flies High with Real-time Business Intelligence](https://www.researchgate.net/publication/220500631_Continental_Airlines_Flies_High_with_Real-Time_Business_Intelligence)." *MIS Quarterly Executive* 3, no. 4 (2004): 163-176.
 
-Davenport, Thomas. "{{% resource_link "5076cf80-18f8-4ee3-bc9b-0d0f39328e00" "Competing on Analytics" %}}." *Harvard Business Review*, January 1, 2006.
+Davenport, Thomas. "[Competing on Analytics](https://hbr.org/2006/01/competing-on-analytics)." *Harvard Business Review*, January 1, 2006.
 
 Reynolds, Anne Marie. "Continental Airlines: Success at All Altitudes." Teradata Podcast.
 
@@ -175,9 +175,9 @@ Guest speaker: John Glaser, CIO Partners Healthcare System
 
 {{< tdclose >}}{{< tdopen >}}
 
-Davenport, Thomas, and John Glaser. "{{% resource_link "f858d95c-d646-472c-9431-fc314f08f79a" "Just-in-Time Delivery Comes to Knowledge Management" %}}." *Harvard Business Review*, July 1, 2002.
+Davenport, Thomas, and John Glaser. "[Just-in-Time Delivery Comes to Knowledge Management](https://hbr.org/product/just-in-time-delivery-comes-to-knowledge-management/an/R0207H-PDF-ENG)." *Harvard Business Review*, July 1, 2002.
 
-Blumenthal, David, and John Glaser. "{{% resource_link "b59cfb31-a7ad-4f3c-bf55-d942c5f69a7b" "Information Technology Comes to Medicine" %}}." *The New England Journal of Medicine* 356, no. 24 (2007): 2527-2534.
+Blumenthal, David, and John Glaser. "[Information Technology Comes to Medicine](http://content.nejm.org/cgi/content/extract/356/24/2527)." *The New England Journal of Medicine* 356, no. 24 (2007): 2527-2534.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -189,9 +189,9 @@ Blumenthal, David, and John Glaser. "{{% resource_link "b59cfb31-a7ad-4f3c-bf55-
 IT governance: decisions, rights and accountability
 {{< tdclose >}}{{< tdopen >}}
 
-Weill, Peter, and Jeanne W. Ross. "{{% resource_link "f01cafb6-1649-4f9c-bdb7-45384bb554bb" "A Matrixed Approach to Designing IT Governance" %}}." *MIT Sloan Management Review* 46, no. 2 (2005): 26-34.
+Weill, Peter, and Jeanne W. Ross. "[A Matrixed Approach to Designing IT Governance](http://sloanreview.mit.edu/the-magazine/articles/2005/winter/46208/a-matrixed-approach-to-designing-it-governance/)." *MIT Sloan Management Review* 46, no. 2 (2005): 26-34.
 
-Glaser, John, et al. "{{% resource_link "5190b1bc-d20d-4d29-8f2e-511c587d54f5" "Too Far Ahead of the IT Curve?" %}}" *Harvard Business Review*, July 1, 2007.
+Glaser, John, et al. "[Too Far Ahead of the IT Curve?](https://hbr.org/product/too-far-ahead-of-the-it-curve-harvard-business-rev/an/R0707A-PDF-ENG?Ntt=Monte+Ford)" *Harvard Business Review*, July 1, 2007.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -209,9 +209,9 @@ Case: Colway Stores
 
 Weill, Peter, and P. Raisbeck. "Colway Stores: IT Council Investment Sub-Committee." Melbourne Business School Case. Melbourne, Australia: Melbourne Case Study Service, Case 416, 1999. Revised 2002 (Weill and Hoffman).
 
-Jeffery, Mark, and Ingmar Leliveld. "{{% resource_link "acdc3efe-575c-4289-8786-d43aef85a9fb" "Best Practices in IT Portfolio Management" %}}." *MIT Sloan Management Review* 45, no. 3 (2004).
+Jeffery, Mark, and Ingmar Leliveld. "[Best Practices in IT Portfolio Management](http://sloanreview.mit.edu/the-magazine/articles/2004/spring/45309/best-practices-in-it-portfolio-management/)." *MIT Sloan Management Review* 45, no. 3 (2004).
 
-Ross, Jeanne W., and Cynthia M. Beath. "{{% resource_link "3ac20e20-bc9c-489f-b827-9ca3d5e2cff0" "Beyond the Business Case: New Approaches to IT Investment" %}}." *MIT Sloan Management Review* 43, no. 2 (2002): 50-59.
+Ross, Jeanne W., and Cynthia M. Beath. "[Beyond the Business Case: New Approaches to IT Investment](http://sloanreview.mit.edu/the-magazine/2002-winter/4325/beyond-the-business-case-new-approaches-to-it-investment/)." *MIT Sloan Management Review* 43, no. 2 (2002): 50-59.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -229,13 +229,13 @@ Case: Campbell Soup
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W., and Cynthia M. Beath. "{{% resource_link "197dcde9-b33d-4cad-ba2b-adc6739148e4" "Campbell Soup Company: Harmonizing Processes and Empowering Workers" %}}." MIT Sloan CISR Working Paper, no. 374, June 2008.
+Ross, Jeanne W., and Cynthia M. Beath. "[Campbell Soup Company: Harmonizing Processes and Empowering Workers](https://doi.org/10.2139/ssrn.1881723)." MIT Sloan CISR Working Paper, no. 374, June 2008.
 
-Fonstad, Nils, and David Roberston. "{{% resource_link "622f7f1f-0185-44cc-b916-166d14e41e74" "Transforming a Company, Project by Project: the IT Engagement Model" %}}." *MIS Quarterly Executive* 5, no. 1 (2006).
+Fonstad, Nils, and David Roberston. "[Transforming a Company, Project by Project: the IT Engagement Model](https://www.researchgate.net/publication/220500561_Transforming_a_Company_Project_by_Project_The_IT_Engagement_Model)." *MIS Quarterly Executive* 5, no. 1 (2006).
 
-Upton, David, and Bradley Staats. "{{% resource_link "5d37bcb1-273d-4ccb-a6b7-7a3ccdebe2ff" "Radically Simple IT" %}}." *Harvard Business Review*, March 2008.
+Upton, David, and Bradley Staats. "[Radically Simple IT](https://hbr.org/2008/03/radically-simple-it)." *Harvard Business Review*, March 2008.
 
-Visit: {{% resource_link "755ae5ff-37eb-414d-bc61-20e339b90c4d" "Campbell's" %}}
+Visit: [Campbell's](https://www.campbells.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -253,9 +253,9 @@ Visit: {{% resource_link "755ae5ff-37eb-414d-bc61-20e339b90c4d" "Campbell's" %}}
 Enterprise architecture
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W. "Enterprise Architecture: Driving Business Benefits from IT." MIT Sloan CISR Working Paper, no. 359, April 2006. ({{% resource_link "54668bc6-7661-47b9-82e9-20d9fb670263" "PDF" %}})
+Ross, Jeanne W. "Enterprise Architecture: Driving Business Benefits from IT." MIT Sloan CISR Working Paper, no. 359, April 2006. ([PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920666))
 
-Hagel, John, and John Seely Brown. "{{% resource_link "0314b3df-9839-4326-bdaf-b7b0b0c276a1" "Your Next IT Strategy" %}}." *Harvard Business Review*, October 1, 2001.
+Hagel, John, and John Seely Brown. "[Your Next IT Strategy](https://hbr.org/product/your-next-it-strategy/an/R0109G-PDF-ENG)." *Harvard Business Review*, October 1, 2001.
 
 ### Optional reading
 
@@ -275,9 +275,9 @@ Case: Southwest Airlines
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W., and Cynthia M. Beath. "{{% resource_link "71d8277a-5b4f-417c-907f-a861d4eae2f6" "Building Business Agility at Southwest Airlines" %}}." MIT Sloan CISR Working Paper, no. 369, May 2007.
+Ross, Jeanne W., and Cynthia M. Beath. "[Building Business Agility at Southwest Airlines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1020963)." MIT Sloan CISR Working Paper, no. 369, May 2007.
 
-Visit: {{% resource_link "2e8dd8c8-f083-4f66-b50d-fbd7431b7a9c" "Southwest Airlines" %}}
+Visit: [Southwest Airlines](http://www.southwest.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -314,7 +314,7 @@ How firms drive value from IT risk management
 Guest speaker: George Westerman, MIT Sloan CISR
 
 {{< tdclose >}}{{< tdopen >}}
-Westerman, George, and Robert Walpole. "{{% resource_link "124d8d91-7798-4309-a2f4-f6539c5dc67b" "PFPC: Building an IT Risk Management Competency" %}}." MIT Sloan CISR Working Paper, no. 352, April 2005.
+Westerman, George, and Robert Walpole. "[PFPC: Building an IT Risk Management Competency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=757362)." MIT Sloan CISR Working Paper, no. 352, April 2005.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -329,11 +329,11 @@ Case: Dow Chemical
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ross, Jeanne W., and Cynthia M. Beath. "{{% resource_link "7c5430ed-7c24-4997-9ecb-eb480aa43f48" "The Federated Broker Model at The Dow Chemical Company: Blending World Class Internal and External Capabilities" %}}." MIT Sloan CISR Working Paper, no. 355, July 2005. 
+Ross, Jeanne W., and Cynthia M. Beath. "[The Federated Broker Model at The Dow Chemical Company: Blending World Class Internal and External Capabilities](https://cisr.mit.edu/publication/MIT_CISRwp355_DowChemFederatedBrkrMdlCase)." MIT Sloan CISR Working Paper, no. 355, July 2005. 
 
-———. "{{% resource_link "7fd6d549-e89f-4e8e-9bd4-e05143450851" "Sustainable IT Outsourcing Success: Let Enterprise Architecture Be Your Guide" %}}." *MIS Quarterly Executive* 5, no. 4 (2006).
+———. "[Sustainable IT Outsourcing Success: Let Enterprise Architecture Be Your Guide](https://www.semanticscholar.org/paper/Sustainable-IT-Outsourcing-Success%3A-Let-Enterprise-Ross-Beath/5c9f030e2367144590dde13d7d1f8357fc50fb94)." *MIS Quarterly Executive* 5, no. 4 (2006).
 
-Willcocks, Leslie, Peter Reynolds, and David Feeny. "{{% resource_link "e98a3c5b-42aa-4d19-b639-49964a5babce" "Evolving IS Capabilities to Leverage the External IT Services Market" %}}." *MIS Quarterly Executive* 6, no. 3 (2007).
+Willcocks, Leslie, Peter Reynolds, and David Feeny. "[Evolving IS Capabilities to Leverage the External IT Services Market](https://aisel.aisnet.org/misqe/vol6/iss3/3/)." *MIS Quarterly Executive* 6, no. 3 (2007).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -345,9 +345,9 @@ Willcocks, Leslie, Peter Reynolds, and David Feeny. "{{% resource_link "e98a3c5b
 Business process outsourcing
 {{< tdclose >}}{{< tdopen >}}
 
-Mani, Deepa, Anitesh Barua, and Andrew B. Whinston. "{{% resource_link "9937ec60-c967-4a8d-8217-2217798c2125" "Successfully Governing Business Process Outsourcing Relationships" %}}." *MIS Quarterly Executive* 5, no. 1, 2006.
+Mani, Deepa, Anitesh Barua, and Andrew B. Whinston. "[Successfully Governing Business Process Outsourcing Relationships](https://www.researchgate.net/publication/220500672_Successfully_Governing_Business_Process_Outsourcing_Relationships)." *MIS Quarterly Executive* 5, no. 1, 2006.
 
-Lacity, Marcy, David Feeny, and Leslie P. Willcocks. "{{% resource_link "97e1c9f7-1950-408d-8169-e3e5facfbe8a" "Transforming a Back-Office Function: Lessons from BAE Systems' Experience with an Enterprise Partnership" %}}." *MIS Quarterly Executive* 2, no. 2 (2003).
+Lacity, Marcy, David Feeny, and Leslie P. Willcocks. "[Transforming a Back-Office Function: Lessons from BAE Systems' Experience with an Enterprise Partnership](https://aisel.aisnet.org/misqe/vol2/iss2/5/)." *MIS Quarterly Executive* 2, no. 2 (2003).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -359,7 +359,7 @@ Lacity, Marcy, David Feeny, and Leslie P. Willcocks. "{{% resource_link "97e1c9f
 IT and globalization
 {{< tdclose >}}{{< tdopen >}}
 
-Beath, Cynthia, and Jeanne W. Ross. "{{% resource_link "bf570ada-c088-4ed1-ae36-c0196b313b7e" "Information and Transformation at Swiss Re: Maximizing Economic Value" %}}." MIT Sloan CISR Working Paper, no. 373, December 2007.
+Beath, Cynthia, and Jeanne W. Ross. "[Information and Transformation at Swiss Re: Maximizing Economic Value](https://cisr.mit.edu/publication/MIT_CISRwp373_SwissRe_InfoAndTrans)." MIT Sloan CISR Working Paper, no. 373, December 2007.
 
 Ross, Jeanne W., Peter Weill, and David Robertson. "Now—Exploit Your Foundation for Profitable Growth." Chapter 8 in *Enterprise Architecture as Strategy: Creating a Foundation for Business Execution*. Watertown, MA: Harvard Business School Press, 2006. ISBN: 9781591398394. (Take note of IMD's CEMEX Case.)
 
@@ -379,9 +379,9 @@ Ross, Jeanne W., Peter Weill, and David Robertson. "Now—Exploit Your Foundatio
 IT and business innovation
 {{< tdclose >}}{{< tdopen >}}
 
-Iyer, Bala, and Thomas Davenport. "{{% resource_link "85a78cbd-873d-4c88-abd7-881a949ae2ac" "Reverse Engineering Google's Innovation Machine" %}}." *Harvard Business Review*, April 1, 2008.
+Iyer, Bala, and Thomas Davenport. "[Reverse Engineering Google's Innovation Machine](https://hbr.org/product/reverse-engineering-googles-innovation-machine/R0804C-PDF-ENG)." *Harvard Business Review*, April 1, 2008.
 
-Sawhney, Mohanbir, Robert Wolcott, and Inigo Arroniz. "{{% resource_link "b660c85e-085e-4b3e-aaf5-b7e72c35465f" "The 12 Different Ways for Companies to Innovate" %}}." *MIT Sloan Management Review* 47, no. 3 (2006): 75-81.
+Sawhney, Mohanbir, Robert Wolcott, and Inigo Arroniz. "[The 12 Different Ways for Companies to Innovate](http://sloanreview.mit.edu/the-magazine/articles/2006/spring/47314/the-different-ways-for-companies-to-innovate/)." *MIT Sloan Management Review* 47, no. 3 (2006): 75-81.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -399,9 +399,9 @@ Case: Lenox Insurance
 
 {{< tdclose >}}{{< tdopen >}}
 
-Weill, Peter, and Sinan Aral. "{{% resource_link "10cd6e9f-1b0a-4c53-96b6-727ab6e9827b" "Generating Premium Returns on Your IT Investments" %}}." *MIT Sloan Management Review* 47, no. 2 (2006): 39-48.
+Weill, Peter, and Sinan Aral. "[Generating Premium Returns on Your IT Investments](http://sloanreview.mit.edu/the-magazine/articles/2006/winter/47211/generating-premium-returns-on-your-it-investments/)." *MIT Sloan Management Review* 47, no. 2 (2006): 39-48.
 
-Reimus, Byron. "{{% resource_link "128318b1-e69f-45bf-9314-119037c81a97" "Information Technology System That Couldn't Deliver" %}}." *Harvard Business Review*, May 1, 1997. (See discussion questions)
+Reimus, Byron. "[Information Technology System That Couldn't Deliver](https://hbr.org/product/information-technology-system-that-couldn-t-delive/an/97308X-PDF-ENG?Ntt=Byron+Reimus)." *Harvard Business Review*, May 1, 1997. (See discussion questions)
 
 {{< tdclose >}}{{< tdopen >}}
  
